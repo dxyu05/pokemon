@@ -1,1 +1,1 @@
-This project was created as a part of the application process for Hack4Impact-UMD
+Simple UI and pokemon api search. Created as supplement for Hack4Impact-UMD.
